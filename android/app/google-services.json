@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "427759962623",
+    "project_id": "fir-secan",
+    "storage_bucket": "fir-secan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427759962623:android:ad5f2a97b0c090a2c6bfca",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427759962623-iemq67pahfq02q90ce2b0phfjn4huvec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Dy2CbFFUwchZDGkJp-pwxqfxwkTMgbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427759962623-iemq67pahfq02q90ce2b0phfjn4huvec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
